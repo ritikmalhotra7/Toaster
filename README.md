@@ -25,7 +25,7 @@ allprojects {
 - cornerRadius => radius for corners of toast : Float default => 50f
 - strokeWidth => stroke width of toast : Int default => 0
 - strokeColor => stroke color of toast : Int default => getColor(ctx, R.color.black)
-- preIconDrawable => drawable icon for toast : Drawable? default => null
+- iconDrawable => drawable icon for toast : Drawable? default => null
 
 This is a very simple library, there is a single function in which you have to pass your requirments and see the magic :magic_wand: 
 ```koltin
