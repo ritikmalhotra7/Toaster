@@ -27,7 +27,7 @@ allprojects {
 - strokeColor => stroke color of toast : Int default => getColor(ctx, R.color.black) i.e #FF000000
 - iconDrawable => drawable icon for toast : Drawable? default => null
 
-This is a very simple library, there is a single function in which you have to pass your requirments and see the magic :magic_wand: 
+This is a very simple library, there is single function in which you have to pass your requirments and see the magic :magic_wand: 
 ```koltin
  Toaster().customToast(...)
  ```
